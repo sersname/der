@@ -54,6 +54,7 @@
     left: 5px;
     background-color: rgba(172, 255, 47, 1);
     width: 100%;
+    z-index: 100;
 }
 .bosh {
     display: inline-block;
